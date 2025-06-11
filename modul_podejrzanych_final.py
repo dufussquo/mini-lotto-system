@@ -1,0 +1,2 @@
+# Analiza podejrzanych losowań
+Podejrzane = []

@@ -1,0 +1,197 @@
+[
+    {
+        "timestamp": "2025-06-10T22:20:00",
+        "module": "modul_sieci",
+        "change": "Zmieniono próg ważenia danych historycznych z 0.3 na 0.5 w analizie schematów.",
+        "type": "strategia"
+    },
+    {
+        "data": "2025-06-10T22:34:14.340926",
+        "typ": "neutralna",
+        "modul": "system_start",
+        "opis": "Pierwsze uruchomienie changeloga",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T22:43:39.497308",
+        "typ": "neutralna",
+        "modul": "system_start",
+        "opis": "Pierwsze uruchomienie changeloga",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T22:43:39.497308",
+        "typ": "negatywna",
+        "modul": "modul_sieci",
+        "opis": "Błąd krytyczny w module analizującym dane sieciowe.",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T22:59:40.196315",
+        "typ": "neutralna",
+        "modul": "system_start",
+        "opis": "Pierwsze uruchomienie changeloga",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T22:59:40.196315",
+        "typ": "negatywna",
+        "modul": "modul_sieci",
+        "opis": "Błąd krytyczny w module analizującym dane sieciowe.",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T23:20:55.335275",
+        "typ": "neutralna",
+        "modul": "system_start",
+        "opis": "Pierwsze uruchomienie changeloga",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T23:20:55.335275",
+        "typ": "negatywna",
+        "modul": "modul_sieci",
+        "opis": "Błąd krytyczny w module analizującym dane sieciowe.",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T23:24:40.884344",
+        "typ": "neutralna",
+        "modul": "system_start",
+        "opis": "Pierwsze uruchomienie changeloga",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T23:24:40.884344",
+        "typ": "negatywna",
+        "modul": "modul_sieci",
+        "opis": "Błąd krytyczny w module analizującym dane sieciowe.",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T23:26:29.240092",
+        "typ": "neutralna",
+        "modul": "system_start",
+        "opis": "Pierwsze uruchomienie changeloga",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T23:26:29.240092",
+        "typ": "negatywna",
+        "modul": "modul_sieci",
+        "opis": "Błąd krytyczny w module analizującym dane sieciowe.",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T23:26:33.413554",
+        "typ": "neutralna",
+        "modul": "system_start",
+        "opis": "Pierwsze uruchomienie changeloga",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T23:26:33.413554",
+        "typ": "negatywna",
+        "modul": "modul_sieci",
+        "opis": "Błąd krytyczny w module analizującym dane sieciowe.",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T23:27:42.217307",
+        "typ": "neutralna",
+        "modul": "system_start",
+        "opis": "Pierwsze uruchomienie changeloga",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T23:27:42.217307",
+        "typ": "negatywna",
+        "modul": "modul_sieci",
+        "opis": "Błąd krytyczny w module analizującym dane sieciowe.",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T23:44:42.928157",
+        "typ": "neutralna",
+        "modul": "system_start",
+        "opis": "Pierwsze uruchomienie changeloga",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T23:44:42.928157",
+        "typ": "negatywna",
+        "modul": "modul_sieci",
+        "opis": "Błąd krytyczny w module analizującym dane sieciowe.",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T23:46:08.018949",
+        "typ": "neutralna",
+        "modul": "system_start",
+        "opis": "Pierwsze uruchomienie changeloga",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T23:46:08.018949",
+        "typ": "negatywna",
+        "modul": "modul_sieci",
+        "opis": "Błąd krytyczny w module analizującym dane sieciowe.",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T23:46:26.424209",
+        "typ": "neutralna",
+        "modul": "system_start",
+        "opis": "Pierwsze uruchomienie changeloga",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T23:46:26.424209",
+        "typ": "negatywna",
+        "modul": "modul_sieci",
+        "opis": "Błąd krytyczny w module analizującym dane sieciowe.",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T23:55:40.601691",
+        "typ": "neutralna",
+        "modul": "system_start",
+        "opis": "Pierwsze uruchomienie changeloga",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-10T23:55:40.601691",
+        "typ": "negatywna",
+        "modul": "modul_sieci",
+        "opis": "Błąd krytyczny w module analizującym dane sieciowe.",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-11T00:40:37.633750",
+        "typ": "neutralna",
+        "modul": "system_start",
+        "opis": "Pierwsze uruchomienie changeloga",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-11T00:40:37.633750",
+        "typ": "negatywna",
+        "modul": "modul_sieci",
+        "opis": "Błąd krytyczny w module analizującym dane sieciowe.",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-11T00:46:47.372867",
+        "typ": "neutralna",
+        "modul": "system_start",
+        "opis": "Pierwsze uruchomienie changeloga",
+        "ocena": null
+    },
+    {
+        "data": "2025-06-11T00:46:47.372867",
+        "typ": "negatywna",
+        "modul": "modul_sieci",
+        "opis": "Błąd krytyczny w module analizującym dane sieciowe.",
+        "ocena": null
+    }
+]

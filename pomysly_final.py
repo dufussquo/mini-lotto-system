@@ -1,0 +1,1 @@
+pomysly = ['Tryb Uczeń Mistrza', 'Skaner podejrzanych graczy']

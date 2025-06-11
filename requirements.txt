@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pandas
+requests
+beautifulsoup4
+scikit-learn
+seaborn
+lxml
+python-dateutil
+json5
